@@ -1,0 +1,3 @@
+/home/abdelfattah/modern c++/STL/01-Managing a Bakery's Daily Orders/build/CMakeFiles/PRINT.dir
+/home/abdelfattah/modern c++/STL/01-Managing a Bakery's Daily Orders/build/CMakeFiles/edit_cache.dir
+/home/abdelfattah/modern c++/STL/01-Managing a Bakery's Daily Orders/build/CMakeFiles/rebuild_cache.dir
