@@ -35,4 +35,25 @@ This project is a Modern C++ application designed to help a bakery manage its da
 - Remove all orders at the end of the day and check if the vector is empty.
 
 ## Project Structure
+![Project Diagram](Managing_backers_daily_orders.jpg)
 
+
+## Compilation & Execution
+
+This project follows CMake for easy compilation. To build and run the program:
+
+```sh
+mkdir build && cd build
+cmake ..
+make
+./bakery_orders
+```
+
+## Implementation Highlights
+
+This project emphasizes:
+
+- Object-Oriented Programming (OOP) principles.
+- STL Containers (std::vector, std::algorithm).
+- Memory Optimization & Performance Considerations.
+- Proper Iteration Techniques & Error Handling.
