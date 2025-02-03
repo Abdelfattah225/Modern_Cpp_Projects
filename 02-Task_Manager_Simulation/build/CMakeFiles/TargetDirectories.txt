@@ -1,0 +1,3 @@
+/home/abdelfattah/modern c++/ProjectsSTL/02-Task_Manager_Simulation/build/CMakeFiles/PRINT.dir
+/home/abdelfattah/modern c++/ProjectsSTL/02-Task_Manager_Simulation/build/CMakeFiles/edit_cache.dir
+/home/abdelfattah/modern c++/ProjectsSTL/02-Task_Manager_Simulation/build/CMakeFiles/rebuild_cache.dir
