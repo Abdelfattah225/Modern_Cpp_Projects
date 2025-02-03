@@ -1,0 +1,3 @@
+/home/abdelfattah/modern c++/ProjectsSTL/03-Implement Unique pointer/build/CMakeFiles/PRINT.dir
+/home/abdelfattah/modern c++/ProjectsSTL/03-Implement Unique pointer/build/CMakeFiles/edit_cache.dir
+/home/abdelfattah/modern c++/ProjectsSTL/03-Implement Unique pointer/build/CMakeFiles/rebuild_cache.dir
