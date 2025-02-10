@@ -44,18 +44,23 @@ To enhance understanding, five key diagrams will be included in the project:
 
 ### **1. User Flow Diagram**
 📌 **Description:** Represents the **interaction flow** between the user, vehicle, ECALL system, and emergency responders.
+![ User  ](User_Flow_Diagram.png "User")
 
 ### **2. Activity Logic Diagram (ALD)**
 📌 **Description:** Explains the **decision-making process** within the **accident detection module**.
+![ ALD  ](ALD.png "ALD")
 
 ### **3. Activity Flow Diagram (AFD)**
 📌 **Description:** Shows the **sequence of operations** from data entry to accident detection and notification.
+![ AFD  ](AFD.png "AFD")
 
 ### **4. UML Diagram**
 📌 **Description:** Represents the **class structure**, their relationships, and how objects interact.
+![ UML  ](UML.png "UML")
 
 ### **5. Runtime View (Sequence Diagram)**
 📌 **Description:** Illustrates the **real-time execution flow** of the system when an accident occurs.
+![ runtime  ](RUNTIME.png "RUNTIME")
 
 🚀 **These diagrams will be included in the repository as JPEG images for clarity and better visualization.**
 
@@ -63,18 +68,19 @@ To enhance understanding, five key diagrams will be included in the project:
 ## 🚀 Getting Started
 ### **1️⃣ Clone the Repository**
 ```bash
- git clone https://github.com/YourUsername/ECALL-Emergency-System.git
- cd ECALL-Emergency-System
+ git clone https://github.com/Abdelfattah225/Modern_Cpp_Projects/tree/main/04-ECALL%20Emergency%20Response%20System
+
+ cd 04-ECALL Emergency Response System
 ```
 
 ### **2️⃣ Compile the Project**
 ```bash
-g++ -std=c++17 -o ecall_system main.cpp vehicle.cpp ecall_system.cpp notification_service.cpp
+g++ -std=c++17 -o PEINT main.cpp
 ```
 
 ### **3️⃣ Run the Simulation**
 ```bash
- ./ecall_system
+ ./PEINT
 ```
 
 ### **4️⃣ Sample Terminal Input**
@@ -87,7 +93,7 @@ Enter acceleration: -9.8 m/s²
 ```
 
 ---
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used / will use
 - **C++17** for implementation.
 - **Smart Pointers** for memory management.
 - **Lambda Expressions** for event handling.
@@ -103,9 +109,11 @@ Enter acceleration: -9.8 m/s²
 
 ---
 ## 🤝 Contributors
-👤 **AbdelFattah Moawed**  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+👤 **AbdelFattah Moawed** 
+ 
+📧 Email: abdelfattahelazazy@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelfattah-moawed/)  
 
 ---
 ## 🏆 Acknowledgments
