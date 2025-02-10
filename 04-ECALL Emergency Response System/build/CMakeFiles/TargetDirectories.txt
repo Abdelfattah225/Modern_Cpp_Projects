@@ -1,0 +1,3 @@
+/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/build/CMakeFiles/PRINT.dir
+/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/build/CMakeFiles/edit_cache.dir
+/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/build/CMakeFiles/rebuild_cache.dir

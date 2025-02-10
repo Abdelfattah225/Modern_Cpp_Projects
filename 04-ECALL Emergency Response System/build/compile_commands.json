@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/build",
+  "command": "/usr/bin/c++  -I\"/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/includes\" -I\"/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/utils\" -g -o CMakeFiles/PRINT.dir/src/main.cpp.o -c \"/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/src/main.cpp\"",
+  "file": "/home/abdelfattah/modern c++/ProjectsSTL/04-ECALL Emergency Response System/src/main.cpp"
+}
+]
